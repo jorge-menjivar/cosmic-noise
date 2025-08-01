@@ -23,7 +23,7 @@ The audio heavy lifting is done by [kira](https://github.com/tesselode/kira) lib
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cosmic-noise.git
+git clone https://github.com/bq-wrongway/cosmic-noise.git
 cd cosmic-noise
 
 # Build the application
